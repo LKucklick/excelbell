@@ -36,7 +36,7 @@
   <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="1" x:FullColumns="1"
    x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="15">
    <Row>
-    <Cell><Data ss:Type="String">A</Data></Cell>
+    <Cell><Data ss:Type="String">Arsch</Data></Cell>
     <Cell><Data ss:Type="String">B</Data></Cell>
     <Cell><Data ss:Type="String">C</Data></Cell>
    </Row>
